@@ -2,7 +2,7 @@
 
 R code accompanying the paper
 
-> Seenoi P, Saengthong P. Bounded odd inverse Pareto Weibull distribution: properties, estimation, and applications. *Journal of Applied Research on Science and Technology (JARST)*. Submitted, 2026.
+> Seenoi P, Saengthong P. Bounded odd inverse Pareto Weibull distribution: properties, estimation, and applications. *...*. Submitted, 2026.
 
 The code uses **base R only** (tested with R 4.3.3); no extra packages are needed.
 
