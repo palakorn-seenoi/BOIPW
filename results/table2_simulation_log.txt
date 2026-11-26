@@ -1,0 +1,248 @@
+ setting  n parameter true     bias median.bias     rmse median.bias.nt
+      S1 30     alpha  0.9 173.0200     -0.3951 1781.837        -0.3951
+      S1 30      beta  3.8 132.7086     -2.9966 1573.599        -2.9966
+      S1 30     theta  0.8  -0.2003     -0.7351    1.181        -0.7351
+      S1 30     gamma  1.0   1.6508      1.1294    2.554         1.1294
+  rmse.nt
+ 1781.833
+ 1573.599
+    1.181
+    2.554
+ setting  n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S1 30         14.7           85.3    0.768   0.457    0.515     0.98
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                   16              5.6            0.0917       0.948       0.98
+ cplog.theta cplog.gamma nt.same.pct
+       0.991        0.89         100
+ setting  n parameter true     bias median.bias     rmse median.bias.nt
+      S1 50     alpha  0.9  33.0929     -0.3554  782.893        -0.3554
+      S1 50      beta  3.8 177.8776     -2.9937 1868.247        -2.9919
+      S1 50     theta  0.8  -0.1754     -0.7056    1.149        -0.7050
+      S1 50     gamma  1.0   1.2827      0.9166    2.016         0.9118
+  rmse.nt
+  782.893
+ 1868.247
+    1.149
+    2.016
+ setting  n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S1 50          7.2           92.8    0.703   0.446    0.498    0.956
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 16.9              5.6            0.0699       0.905      0.954
+ cplog.theta cplog.gamma nt.same.pct
+       0.992       0.851        99.9
+ setting   n parameter true    bias median.bias     rmse median.bias.nt
+      S1 100     alpha  0.9 -0.2814     -0.3188   0.4233        -0.3171
+      S1 100      beta  3.8 55.6403     -2.8165 992.0827        -2.8118
+      S1 100     theta  0.8 -0.1650     -0.6739   0.9762        -0.6728
+      S1 100     gamma  1.0  1.0356      0.7778   1.6353         0.7635
+  rmse.nt
+   0.4223
+ 992.0826
+   0.9756
+   1.6267
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S1 100            3             97    0.679   0.494    0.496    0.877
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 18.9              8.5            0.0478       0.828      0.814
+ cplog.theta cplog.gamma nt.same.pct
+       0.907       0.733        99.8
+ setting   n parameter true    bias median.bias     rmse median.bias.nt
+      S1 200     alpha  0.9 -0.2295     -0.1750   0.3817        -0.1735
+      S1 200      beta  3.8 25.4104     -1.7259 696.9399        -1.7136
+      S1 200     theta  0.8 -0.1373     -0.3676   0.8025        -0.3642
+      S1 200     gamma  1.0  0.8521      0.2716   1.4808         0.2703
+  rmse.nt
+   0.3807
+ 696.9399
+   0.8019
+   1.4748
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S1 200          3.3           96.7    0.671   0.595    0.613    0.794
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 20.3              9.6            0.0346        0.76      0.718
+ cplog.theta cplog.gamma nt.same.pct
+       0.812         0.7        99.8
+ setting   n parameter true    bias median.bias   rmse median.bias.nt rmse.nt
+      S1 300     alpha  0.9 -0.2223     -0.1570 0.3793        -0.1539  0.3771
+      S1 300      beta  3.8  0.6177     -1.5551 8.8844        -1.5428  8.8825
+      S1 300     theta  0.8 -0.1973     -0.3234 0.6661        -0.3210  0.6647
+      S1 300     gamma  1.0  0.8582      0.2476 1.4794         0.2405  1.4688
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S1 300          2.7           97.3    0.653   0.603    0.624    0.728
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 23.2             10.8            0.0283       0.706      0.697
+ cplog.theta cplog.gamma nt.same.pct
+       0.737       0.669        99.6
+ setting   n parameter true    bias median.bias   rmse median.bias.nt rmse.nt
+      S1 500     alpha  0.9 -0.1995    -0.09869 0.3509       -0.09761  0.3488
+      S1 500      beta  3.8 -0.2289    -1.15712 4.1934       -1.12881  4.1875
+      S1 500     theta  0.8 -0.2096    -0.22872 0.5659       -0.22483  0.5638
+      S1 500     gamma  1.0  0.7699     0.14934 1.4060        0.14387  1.3961
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S1 500          3.3           96.7    0.702   0.658    0.675    0.731
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 20.8             10.4            0.0224       0.735      0.733
+ cplog.theta cplog.gamma nt.same.pct
+       0.747       0.719        99.6
+ setting  n parameter true    bias median.bias    rmse median.bias.nt rmse.nt
+      S2 30     alpha  1.2 703.779     -0.5470 3485.72        -0.5566 3485.72
+      S2 30      beta  1.2 189.211     -0.8098 1845.22        -0.8127 1845.21
+      S2 30     theta  2.0  21.227     -1.2086  696.48        -1.2177  696.48
+      S2 30     gamma  1.5   4.554      1.3147   18.18         1.3175   18.18
+ setting  n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S2 30          9.2           90.8     0.66   0.643    0.694    0.983
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 17.9              3.7             0.092       0.872      0.999
+ cplog.theta cplog.gamma nt.same.pct
+       0.996       0.835        99.7
+ setting  n parameter true     bias median.bias     rmse median.bias.nt
+      S2 50     alpha  1.2 161.3670     -0.5027 1723.492        -0.5027
+      S2 50      beta  1.2   9.6363     -0.7913  105.886        -0.7913
+      S2 50     theta  2.0  -0.7942     -1.1617    1.633        -1.1617
+      S2 50     gamma  1.5   1.7810      1.0984    4.111         1.0984
+  rmse.nt
+ 1723.487
+  105.411
+    1.623
+    4.111
+ setting  n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S2 50          1.9             98    0.667   0.587    0.668      0.9
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 21.1              3.5            0.0703        0.84      0.992
+ cplog.theta cplog.gamma nt.same.pct
+       0.993       0.789        99.8
+ setting   n parameter true    bias median.bias   rmse median.bias.nt rmse.nt
+      S2 100     alpha  1.2 -0.3107     -0.5162  1.145        -0.5162   1.145
+      S2 100      beta  1.2  2.7320     -0.7656 30.586        -0.7656  30.585
+      S2 100     theta  2.0 -0.8667     -1.1643  1.499        -1.1643   1.499
+      S2 100     gamma  1.5  1.2279      1.0488  1.745         1.0488   1.745
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S2 100            0            100    0.632   0.565    0.636    0.822
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 21.5              4.4            0.0483       0.784      0.938
+ cplog.theta cplog.gamma nt.same.pct
+       0.974       0.731         100
+ setting   n parameter true    bias median.bias   rmse median.bias.nt rmse.nt
+      S2 200     alpha  1.2 -0.3349     -0.4332 0.5622        -0.4329  0.5616
+      S2 200      beta  1.2  0.4656     -0.7027 9.7969        -0.7009  9.7968
+      S2 200     theta  2.0 -0.7943     -1.0553 1.3493        -1.0507  1.3480
+      S2 200     gamma  1.5  0.9907      0.8436 1.4634         0.8427  1.4609
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S2 200            0            100     0.64   0.555    0.631    0.768
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 20.8              3.2            0.0341        0.75      0.805
+ cplog.theta cplog.gamma nt.same.pct
+       0.831        0.69        99.9
+ setting   n parameter true    bias median.bias   rmse median.bias.nt rmse.nt
+      S2 300     alpha  1.2 -0.3199     -0.3882 0.5286        -0.3882  0.5286
+      S2 300      beta  1.2 -0.1932     -0.6883 4.0885        -0.6883  4.0885
+      S2 300     theta  2.0 -0.8134     -0.9822 1.2376        -0.9822  1.2376
+      S2 300     gamma  1.5  0.9104      0.7081 1.3511         0.7081  1.3511
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S2 300            0            100    0.635   0.536    0.616    0.737
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                   20              4.2            0.0279       0.711      0.735
+ cplog.theta cplog.gamma nt.same.pct
+       0.789       0.669         100
+ setting   n parameter true    bias median.bias   rmse median.bias.nt rmse.nt
+      S2 500     alpha  1.2 -0.2839     -0.3108 0.4755        -0.3073  0.4742
+      S2 500      beta  1.2 -0.1755     -0.5414 1.5669        -0.5370  1.5663
+      S2 500     theta  2.0 -0.6451     -0.7303 1.1537        -0.7261  1.1510
+      S2 500     gamma  1.5  0.7437      0.4966 1.2047         0.4964  1.2002
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S2 500            0            100    0.655   0.598    0.629    0.726
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 17.2              3.1            0.0216        0.71      0.719
+ cplog.theta cplog.gamma nt.same.pct
+       0.758       0.673        99.8
+ setting  n parameter true     bias median.bias     rmse median.bias.nt
+      S3 30     alpha  1.6 824.2629     -0.8579 3710.173        -0.8579
+      S3 30      beta  1.6 116.8298     -1.2496 1559.372        -1.2496
+      S3 30     theta  1.4  -0.8035     -1.1801    1.413        -1.1801
+      S3 30     gamma  0.8   1.4410      0.9297    2.452         0.9297
+  rmse.nt
+ 3710.176
+ 1559.372
+    1.413
+    2.452
+ setting  n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S3 30         10.6           89.4    0.612   0.508    0.483    0.963
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 24.2              5.2            0.0926       0.855      0.988
+ cplog.theta cplog.gamma nt.same.pct
+       0.998       0.782         100
+ setting  n parameter true     bias median.bias     rmse median.bias.nt
+      S3 50     alpha  1.6 382.5759     -0.8113 2729.789        -0.8084
+      S3 50      beta  1.6  92.4082     -1.2615 1393.555        -1.2610
+      S3 50     theta  1.4  -0.7833     -1.1585    1.378        -1.1580
+      S3 50     gamma  0.8   1.0385      0.8363    1.544         0.8314
+  rmse.nt
+ 2729.792
+ 1393.555
+    1.378
+    1.544
+ setting  n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S3 50          3.3           96.5    0.593   0.434    0.465    0.884
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 26.1              7.4            0.0699       0.788      0.968
+ cplog.theta cplog.gamma nt.same.pct
+       0.998       0.713        99.9
+ setting   n parameter true    bias median.bias     rmse median.bias.nt
+      S3 100     alpha  1.6 -0.4912      -0.760    1.199        -0.7576
+      S3 100      beta  1.6 52.9287      -1.211 1001.475        -1.2092
+      S3 100     theta  1.4 -0.7156      -1.108    1.316        -1.1076
+      S3 100     gamma  0.8  0.8277       0.717    1.139         0.7157
+  rmse.nt
+    1.199
+ 1001.475
+    1.316
+    1.135
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S3 100          0.3           99.7     0.58   0.406    0.459    0.782
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 27.4              7.1            0.0461       0.726      0.816
+ cplog.theta cplog.gamma nt.same.pct
+       0.865       0.655        99.9
+ setting   n parameter true    bias median.bias     rmse median.bias.nt
+      S3 200     alpha  1.6 -0.5428     -0.6928   0.8112        -0.6928
+      S3 200      beta  1.6 25.3240     -1.1435 702.5175        -1.1435
+      S3 200     theta  1.4 -0.6770     -1.0525   1.1690        -1.0525
+      S3 200     gamma  0.8  0.7216      0.6459   1.0114         0.6459
+  rmse.nt
+   0.8112
+ 702.5175
+   1.1690
+   1.0114
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S3 200          0.1           99.9    0.556   0.426    0.464    0.681
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 29.2              8.3            0.0339       0.657       0.63
+ cplog.theta cplog.gamma nt.same.pct
+       0.715       0.586         100
+ setting   n parameter true    bias median.bias    rmse median.bias.nt rmse.nt
+      S3 300     alpha  1.6 -0.5137     -0.6113  0.7654        -0.6113  0.7654
+      S3 300      beta  1.6  2.4284     -1.0855 79.3882        -1.0855 79.3882
+      S3 300     theta  1.4 -0.6332     -0.9461  1.0807        -0.9461  1.0807
+      S3 300     gamma  0.8  0.6517      0.5194  0.9426         0.5194  0.9426
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S3 300            0            100     0.57   0.456    0.504    0.668
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 28.1              7.5            0.0278        0.64      0.621
+ cplog.theta cplog.gamma nt.same.pct
+       0.687       0.577         100
+ setting   n parameter true    bias median.bias   rmse median.bias.nt rmse.nt
+      S3 500     alpha  1.6 -0.4378     -0.4419 0.6899        -0.4419  0.6899
+      S3 500      beta  1.6 -0.2877     -0.8804 2.4288        -0.8804  2.4288
+      S3 500     theta  1.4 -0.5572     -0.7236 0.9652        -0.7236  0.9652
+      S3 500     gamma  0.8  0.5447      0.3312 0.8434         0.3312  0.8434
+ setting   n boundary.pct wald.valid.pct cp.alpha cp.beta cp.theta cp.gamma
+      S3 500            0            100    0.606   0.518    0.553    0.666
+ true.start.lower.pct first8.lower.pct mean.cdf.distance cplog.alpha cplog.beta
+                 25.6              7.2            0.0215       0.663      0.614
+ cplog.theta cplog.gamma nt.same.pct
+       0.675       0.616         100
+Table 2 written to results/table2_simulation.csv
+
+real	7m34.005s
+user	14m39.105s
+sys	0m3.666s
